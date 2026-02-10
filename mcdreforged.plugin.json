@@ -1,0 +1,11 @@
+{
+  "id": "player_stats",
+  "version": "1.0.0",
+  "name": "Player Stats Plugin",
+  "description": "A plugin for MCDR that tracks and displays player statistics, generates rankings, and uploads to GitHub",
+  "author": "Your Name",
+  "link": "https://github.com/yourusername/player-stats-plugin",
+  "dependencies": {
+    "mcdreforged": ">=1.13.0"
+  }
+}
